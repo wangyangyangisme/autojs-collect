@@ -1,0 +1,10 @@
+{
+    "version": [
+        "kongjian1.dat",
+        "kongjian2.dat",
+        "douyinVersion.dat"
+    ],
+    "kongjian1.dat": "2",
+    "kongjian2.dat": "2",
+    "douyinVersion.dat": "1130"
+}

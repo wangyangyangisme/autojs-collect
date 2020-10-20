@@ -1,0 +1,10 @@
+{
+    "name": "蚂蚁积分签到",
+    "main": "main.js",
+    "ignore": [
+        "build"
+    ],
+    "packageName": "com.alipay.credit",
+    "versionName": "1.0.3.6",
+    "versionCode": 1
+}

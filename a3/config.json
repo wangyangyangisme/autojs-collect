@@ -1,0 +1,45 @@
+{
+    "newsAppList":[
+        {
+            "name":"中青看点",
+            "version":1,
+            "name":"趣看天下",
+            "version":1,
+            "name":"点点新闻",
+            "version":1,
+            "name":"头天精选",
+            "version":1,
+            "name":"微趣看",
+            "version":1,
+            "name":"微鲤看看",
+            "version":1,
+            "name":"优看点",
+            "version":1,
+            "name":"聚看点",
+            "version":1,
+            "name":"牛牛资讯",
+            "version":1,
+            "name":"聚看点",
+            "version":1,
+            "name":"闪电盒子",
+            "version":1,
+            "name":"趣头条",
+            "version":1
+
+        }
+    ],
+    "videoAppList":[
+        {
+            "name":"刷宝短视频",
+            "version":1,
+            "name":"快手极速版",
+            "version":1,
+            "name":"火山极速版",
+            "version":1,
+            "name":"抖音极速版",
+            "version":1,
+            
+
+        }
+    ]
+}

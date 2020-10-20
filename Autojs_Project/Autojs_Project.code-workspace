@@ -1,0 +1,22 @@
+{
+	"folders": [
+		{
+			"path": "alipayForestAutoCollect"
+		},
+		{
+			"path": "idlefishAutoRefreshItem"
+		},
+		{
+			"path": "utils"
+		},
+		{
+			"path": "wexinAutoLikeSport"
+		},
+		{
+			"path": "wexinOrganizeContacts"
+		},
+		{
+			"path": "xiaomiAutoReboot"
+		}
+	]
+}

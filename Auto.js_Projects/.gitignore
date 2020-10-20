@@ -1,0 +1,10 @@
+*.apk
+*.exe
+*.zip
+*.html
+/!BAK
+/.git
+/.github
+/.idea
+/Tools/Accessibility_Settings.js
+/Declarations
