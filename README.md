@@ -71,3 +71,5 @@
  [batchJs2Dex](https://github.com/snailuncle/batchJs2Dex) 将autojs编写的js文件转为dex文件
 
 [auto.pro](https://github.com/molysama/auto.pro) webview打包推荐   开箱即用的 auto.pro 的 npm 扩展包，提供了一个 cli 工具来创建模板项目，让你轻松开发复杂 auto 应用。可配置 webpack、babel、ts、es6、压缩混淆、AES 加密，大家可以使用完整的 JS 新特性来写 auto 应用啦。 
+
+[Auto.js](https://github.com/TonyJiangWJ/Auto.js) 修改版的4.1.1
