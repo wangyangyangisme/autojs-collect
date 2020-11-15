@@ -1,0 +1,42 @@
+{
+    "name": "@auto.pro/floaty",
+    "version": "9.0.12",
+    "description": "> TODO: description",
+    "keywords": [
+        "auto.pro",
+        "@auto.pro",
+        "molysama"
+    ],
+    "author": "molysama <molysama.i@gmail.com>",
+    "homepage": "https://github.com/molysama/auto.pro#readme",
+    "license": "MIT",
+    "main": "src/index.js",
+    "types": "src/index.d.ts",
+    "directories": {
+        "src": "src",
+        "test": "__tests__"
+    },
+    "files": [
+        "src"
+    ],
+    "publishConfig": {
+        "registry": "http://registry.npmjs.org/",
+        "access": "public"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/molysama/auto.pro.git"
+    },
+    "scripts": {
+        "build": "tsc"
+    },
+    "bugs": {
+        "url": "https://github.com/molysama/auto.pro/issues"
+    },
+    "gitHead": "47599db3a54d21d053f0857ccc61e3e7da1498b9",
+    "dependencies": {
+        "@auto.pro/core": "^9.0.7",
+        "rxjs": "^6.6.2",
+        "uuid-js": "^0.7.5"
+    }
+}

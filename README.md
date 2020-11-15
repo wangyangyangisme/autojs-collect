@@ -63,3 +63,11 @@
 [autojs_sdk](https://github.com/kangour/autojs_sdk)  基于 Autojs 的 APP、小程序自动化测试 SDK，支持：判断存在、等待出现、文本或颜色点击、循环点击、坐标拾取、语音播报等数十项能力。
 
 [ Auto.js-Xml](https://github.com/ujthrgree/Auto.js-Xml) 因为autojs的找元素会找到界面外的节点，所以自写了xml根据属性找Id模块(需要root权限)，或者判断坐标(不好控制不适合所有手机)
+
+[webpack-autojs](https://github.com/snailuncle/webpack-autojs) webpack打包多个autojs的js文件为一个js文件
+
+[autojsNativeJs](https://github.com/snailuncle/autojsNativeJs) so中执行autojs脚本
+
+ [batchJs2Dex](https://github.com/snailuncle/batchJs2Dex) 将autojs编写的js文件转为dex文件
+
+[auto.pro](https://github.com/molysama/auto.pro) webview打包推荐   开箱即用的 auto.pro 的 npm 扩展包，提供了一个 cli 工具来创建模板项目，让你轻松开发复杂 auto 应用。可配置 webpack、babel、ts、es6、压缩混淆、AES 加密，大家可以使用完整的 JS 新特性来写 auto 应用啦。 

@@ -1,0 +1,34 @@
+{
+    "name": "@auto.pro/action",
+    "version": "9.0.7",
+    "description": "module for control app",
+    "author": "molysama <molysama.i@gmail.com>",
+    "publishConfig": {
+        "access": "public"
+    },
+    "homepage": "https://github.com/molysama/auto.pro#readme",
+    "license": "MIT",
+    "main": "src/index.js",
+    "types": "src/index.d.ts",
+    "directories": {
+        "test": "__tests__"
+    },
+    "files": [
+        "src"
+    ],
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/molysama/auto.pro.git"
+    },
+    "scripts": {
+        "build": "tsc"
+    },
+    "bugs": {
+        "url": "https://github.com/molysama/auto.pro/issues"
+    },
+    "gitHead": "c500369bacf210b86eb41dddff9dd1865c083cc8",
+    "dependencies": {
+        "@auto.pro/core": "^9.0.7",
+        "bezier-js": "^2.4.4"
+    }
+}

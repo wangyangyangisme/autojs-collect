@@ -1,0 +1,37 @@
+{
+    "name": "@auto.pro/webview",
+    "version": "9.0.8",
+    "description": "webview plugin for auto.pro",
+    "author": "molysama <molysama.i@gmail.com>",
+    "homepage": "https://github.com/molysama/auto.pro#readme",
+    "license": "MIT",
+    "main": "src/index.js",
+    "types": "src/index.d.ts",
+    "directories": {
+        "src": "src",
+        "test": "__tests__"
+    },
+    "files": [
+        "src"
+    ],
+    "publishConfig": {
+        "registry": "http://registry.npmjs.org/",
+        "access": "public"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/molysama/auto.pro.git"
+    },
+    "scripts": {
+        "build": "tsc"
+    },
+    "bugs": {
+        "url": "https://github.com/molysama/auto.pro/issues"
+    },
+    "dependencies": {
+        "@auto.pro/core": "^9.0.7",
+        "rxjs": "^6.6.2",
+        "uuid-js": "^0.7.5"
+    },
+    "gitHead": "c500369bacf210b86eb41dddff9dd1865c083cc8"
+}

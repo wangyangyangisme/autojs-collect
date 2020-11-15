@@ -1,0 +1,39 @@
+{
+    "name": "@auto.pro/cli",
+    "version": "9.0.1",
+    "description": "create an auto.pro project",
+    "author": "molysama <molysama.i@gmail.com>",
+    "homepage": "https://github.com/molysama/auto.pro#readme",
+    "license": "MIT",
+    "bin": {
+        "auto-cli": "lib/cli.js"
+    },
+    "publishConfig": {
+        "access": "public"
+    },
+    "main": "lib/cli.js",
+    "directories": {
+        "lib": "lib",
+        "org": "org"
+    },
+    "files": [
+        "lib",
+        "org"
+    ],
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/molysama/auto.pro.git"
+    },
+    "bugs": {
+        "url": "https://github.com/molysama/auto.pro/issues"
+    },
+    "dependencies": {
+        "chalk": "^2.4.2",
+        "commander": "^3.0.2",
+        "download-git-repo": "^2.0.0",
+        "inquirer": "^7.0.0",
+        "log-symbols": "^3.0.0",
+        "ora": "^4.0.2"
+    },
+    "gitHead": "c500369bacf210b86eb41dddff9dd1865c083cc8"
+}

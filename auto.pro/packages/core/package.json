@@ -1,0 +1,27 @@
+{
+    "name": "@auto.pro/core",
+    "version": "9.0.7",
+    "description": "core of auto.pro npm module",
+    "main": "src/index.js",
+    "types": "src/index.d.ts",
+    "scripts": {
+        "build": "tsc"
+    },
+    "files": [
+        "src"
+    ],
+    "publishConfig": {
+        "access": "public"
+    },
+    "keywords": [
+        "auto.js",
+        "auto.pro"
+    ],
+    "author": "",
+    "license": "MIT",
+    "dependencies": {
+        "rxjs": "^6.6.2",
+        "uuid-js": "^0.7.5"
+    },
+    "gitHead": "c500369bacf210b86eb41dddff9dd1865c083cc8"
+}

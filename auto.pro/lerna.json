@@ -1,0 +1,11 @@
+{
+    "useWorkspaces": true,
+    "npmClient": "yarn",
+    "packages": ["packages/*"],
+    "command": {
+        "publish": {
+            "ignoreChanges": ["packages/*/__tests__"]
+        }
+    },
+    "version": "independent"
+}
